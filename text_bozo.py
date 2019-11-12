@@ -1,0 +1,2 @@
+texts=['RT @carteiroreaca: Fui notificado pela direção nacional do PSL que estou no Conselho de Ética do Partido. Os fisiológicos querem minha expu…','RT @MarcosQuezado1: Soltura de Lula causou oscilações na Bolsa de Valores, diz Bolsonaro https://t.co/fXJM7scM57 via @@renovamidia',
+'RT @carteiroreaca: Fui notificado pela direção nacional do PSL que estou no Conselho de Ética do Partido. Os fisiológicos querem minha expu…','Bolsonaro edita medida provisória que extingue o DPVAT a partir de 2020 https://t.co/60EI4yFKSO']
