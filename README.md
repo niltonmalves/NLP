@@ -1,2 +1,2 @@
 # NLP
-NLP_twitter_bolsonaro
+NLP_twitter
